@@ -1,6 +1,6 @@
 # Time-Dependent Schrödinger Equation: Numerical Methods and 1D Quantum Problems
 
-This repository contains the code and thesis developed for my undergraduate dissertation in the Dual Bachelor's Degree in Physics and Mathematics.
+This repository contains the code and thesis developed for my undergraduate dissertation in the Dual Bachelor's Degree in Physics and Mathematics, which received a final grade of **9.1/10**.
 
 The project studies numerical solutions of the **time-dependent Schrödinger equation** in one-dimensional quantum systems using **finite-difference methods**, comparing numerical results with analytical solutions whenever possible.
 
@@ -27,4 +27,4 @@ The project studies numerical solutions of the **time-dependent Schrödinger equ
 
 ## Context
 
-This work was completed as my undergraduate thesis for the **Dual Bachelor's Degree in Physics and Mathematics** at the University of Granada.
+This work was completed as my undergraduate thesis for the **Dual Bachelor's Degree in Physics and Mathematics** at the University of Granada and received a final grade of **9.1/10**.
