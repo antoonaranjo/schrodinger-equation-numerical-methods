@@ -14,8 +14,8 @@ The project studies numerical solutions of the **time-dependent Schrödinger equ
 
 ## Repository contents
 
-- `TFG Antonio Naranjo Bueno.pdf` — Full undergraduate thesis
-- `5.1.py` to `5.5.py` — Python scripts used for the numerical simulations and analysis
+- [`thesis/TFG Antonio Naranjo Bueno.pdf`](thesis/TFG%20Antonio%20Naranjo%20Bueno.pdf) — Full undergraduate thesis
+- [`code/`](code/) — Python scripts used for the numerical simulations and analysis
 
 ## Skills demonstrated
 
